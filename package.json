@@ -1,0 +1,12 @@
+{
+  "name": "cs2-upgrader-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CS2 Upgrader online room and tap match",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
